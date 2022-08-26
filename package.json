@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/bannarakesh.lwc-l7ar3tnz-fork-l7ar9v1e",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve wffFEJQsFIcW8hV2NHrc --open"
+  }
+}
